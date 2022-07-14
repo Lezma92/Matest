@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline|Convergence|Julius+Sans+One|Mukta+Malar|Patrick+Hand+SC|Pompiere|Pridi|Roboto|Roboto+Mono|Rokkitt|Viga&display=swap');
+
+blockquote {
+    margin: 20px 0;
+    padding-left: 1.5rem;
+    border-left: 5px solid #2fb33e;
+}
+
+
+/*---------------------------------------------------*/
+/* .tabulacion:first-letter {
+	margin-left: 30px;
+}
+ */
+
+blockquote.questions {
+    margin: 20px 0;
+    padding-left: 1.5rem;
+    border-left: 5px solid #AF8E16;
+}
+
+/* Lyric instrucciones */
+h4.ins {
+    font-family: 'Convergence', sans-serif;
+}
+
+h1.exam {
+    font-family: 'Convergence', sans-serif;
+}
+
+p.prf {
+    font-family: 'Roboto Mono', monospace;
+}
+h4.mat {
+    font-family: 'Roboto', sans-serif;
+}
+
+small.smallxD {
+    font-family: 'Viga', sans-serif;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+h5.tit {
+    font-family: 'Convergence', sans-serif;
+}
+p.pEvaluacion {
+    font-family: 'Mukta Malar', sans-serif;
+}
+/* 
+    font-family: 'Mukta Malar', sans-serif;
+    font-family: 'Bungee Inline', cursive;              fea grueso xD
+    font-family: 'Convergence', sans-serif;             xdxdxdxdxdxdx
+    font-family: 'Pompiere', cursive;                   delgadita alv
+    font-family: 'Patrick Hand SC', cursive;
+    font-family: 'Pridi', serif;                        xdxdxdxdxdxdx
+    font-family: 'Julius Sans One', sans-serif;
+    font-family: 'Viga', sans-serif;                    xdxdxdxdxdxdx
+    font-family: 'Rokkitt', serif;                      xdxdxdxdxdxdx pequeña
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto', sans-serif;
+ */
